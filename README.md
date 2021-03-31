@@ -1,2 +1,2 @@
 # rosalind.info
-Solving "Rosalind" problems - #bioinformation
+http://rosalind.info/users/robbinespu/ - Solving "Rosalind"  problems - #bioinformation
